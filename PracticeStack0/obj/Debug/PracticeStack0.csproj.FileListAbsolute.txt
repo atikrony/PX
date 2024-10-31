@@ -1,0 +1,7 @@
+C:\Users\atikr\source\repos\PracticeStack0\PracticeStack0\bin\Debug\PracticeStack0.exe.config
+C:\Users\atikr\source\repos\PracticeStack0\PracticeStack0\bin\Debug\PracticeStack0.exe
+C:\Users\atikr\source\repos\PracticeStack0\PracticeStack0\bin\Debug\PracticeStack0.pdb
+C:\Users\atikr\source\repos\PracticeStack0\PracticeStack0\obj\Debug\PracticeStack0.csproj.AssemblyReference.cache
+C:\Users\atikr\source\repos\PracticeStack0\PracticeStack0\obj\Debug\PracticeStack0.csproj.CoreCompileInputs.cache
+C:\Users\atikr\source\repos\PracticeStack0\PracticeStack0\obj\Debug\PracticeStack0.exe
+C:\Users\atikr\source\repos\PracticeStack0\PracticeStack0\obj\Debug\PracticeStack0.pdb
